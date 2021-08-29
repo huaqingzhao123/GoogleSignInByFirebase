@@ -1,0 +1,2 @@
+# GoogleSignInByFirebase
+Unity接入Firebase谷歌登录
