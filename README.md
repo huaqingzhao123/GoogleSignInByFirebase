@@ -1,2 +1,3 @@
 # GoogleSignInByFirebase
 Unity接入Firebase谷歌登录
+接入过程查看文档说明，需要严格按照说明步骤进行
